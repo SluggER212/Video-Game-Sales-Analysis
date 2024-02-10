@@ -10,6 +10,7 @@ The analysis begins with loading the dataset into a Pandas DataFrame and examini
 ![2](https://github.com/SluggER212/Video-Game-Sales-Analysis/assets/126152029/fe7385c2-9213-469b-a8bb-ffef94987614)
 
 ##Top 10 Games by Global Sales:
+
 The study reveals the top 10 video games according to their all time maximum global sales. This is achieved by grouping the data by game name and then finding the maximum global sales for each game.
 
 ![3](https://github.com/SluggER212/Video-Game-Sales-Analysis/assets/126152029/88fa1a53-c705-4ad3-86ed-05cb4f91954d)
