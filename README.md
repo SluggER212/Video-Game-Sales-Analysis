@@ -1,4 +1,4 @@
-![5](https://github.com/SluggER212/Video-Game-Sales-Analysis/assets/126152029/65220184-e839-409d-96a6-285caf13625b)# Video-Game-Sales-Analysis
+# Video-Game-Sales-Analysis
 
 # Introduction:
 The main aim of this project is to explore the world of video game sales using Python library Pandas, Matplotlib, and Seaborn which are used for data visualization. The dataset analyzed is "vgsales.csv", which includes information about various video games, their sales records from different regions, genres, and platforms.
