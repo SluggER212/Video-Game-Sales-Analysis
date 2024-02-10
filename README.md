@@ -15,7 +15,7 @@ The study reveals the top 10 video games according to their all time maximum glo
 
 # Yearly Sales Trends:
 The analysis then digs into the sales trends across the years. The number of games sold each year is shown with 2009 selling the highest overall.
-#Games by genre:
+# Games by genre:
 
 ![4](https://github.com/SluggER212/Video-Game-Sales-Analysis/assets/126152029/394190ac-6744-4677-bf9d-6da19429c8a5)
 
